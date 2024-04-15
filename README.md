@@ -1,5 +1,4 @@
-# waste-manager-discovery
-# Microservicio de Descubrimiento (Discovery Service) - Spring Boot
+# Waste Manager Project-Discovery Microservicio de Descubrimiento (Discovery Service) - Spring Boot
 
 Este es un microservicio de descubrimiento implementado utilizando Spring Boot y Spring Cloud Netflix Eureka. Proporciona una solución para la detección automática y el registro de servicios en un entorno de arquitectura de microservicios.
 
