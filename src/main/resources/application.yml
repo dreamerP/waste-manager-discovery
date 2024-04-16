@@ -1,7 +1,5 @@
-server:
-  port: 8080
-  
-eureka:
-  client:
-    register-with-eureka: false
-    fetch-registry: false
+spring:
+  application: 
+    name: waste-manager-discovery
+  config: 
+     import: optional:configserver:http://WastemanagerAdmin:Test@localhost:8888
